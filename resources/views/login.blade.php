@@ -9,7 +9,7 @@
 <body>
     
         <h1>Login</h1>
-        <h2>Welcome</h2>
+        <h2>Page</h2>
     
 </body>
 </html>
